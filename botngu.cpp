@@ -9,7 +9,6 @@
 #include<chrono>
 #include "dohoa.h"
 #include "Cunghoangdao.h"
-#include "Snakegame.h"
 #include "botngu.h"
 #include "demsongaysong.h"
 #include "totinh.h"
@@ -397,7 +396,7 @@ void runbot(){
 			traloi.push_back("ko ro nua, noi ro rang hon di");
 			traloi.push_back("yeu anh di ne, roi kung se biet thoi <3");
 			traloi.push_back("yeu daik em di, roi chi se biet thoi <3");
-			traloi.push_back("ti`nh yeu la` la`m cho nguo`i mi`nh yeu duo?c ha?nh phu´c,vui cuo`i mo~i nga`y,pha?i bie´t hi sinh");
+			traloi.push_back("ti`nh yeu la` la`m cho nguo`i mi`nh yeu duo?c ha?nh phuÂ´c,vui cuo`i mo~i nga`y,pha?i bieÂ´t hi sinh");
 			traloi.push_back("do ai dinh nghia duoc tinh yeu\nco phai long vuong buoi thu chieu\ngap em mat vang gieo mau la\nmim cuoi voi gio lam anh xieu");
 			rd = rand()%traloi.size();
 			print(traloi[rd]);continue; 
@@ -1956,8 +1955,8 @@ void runbot(){
 			traloi.push_back("moi cau cu cua vn co the hieu nhieu nghia neu ta \ndat dau cham dau phay khac nhau vd\n moi gia dinh co 2 con vo chong hanh phuc.\n gio ta chuyen dau phay se thanh moi\n gia dinh co 2 con vo, chong hanh phuc");
 			traloi.push_back("me dan con gai di ve tre can than nghe con \nlo co bi chan duong lam bay thi con\n phai binh tinh vui ve ven vay len\n bao no tut quan no xuong roi moi bo\n chay kieu do thi do cha no duoi \ntheo kip con nho chua dieu ke dieu ke");
 			traloi.push_back("1 giot sua trai gap giot sua gai va chung\n yeu nhau cung chung song voi nhau\n den 1 ngay giot sua gai de nghi\n muon co con voi giot sua trai giot \nsua trai nhan mat buon rau ma\n tra loi anh khong the co con voi \nem duoc vi anh la sua tuoi tiet trung");
-			traloi.push_back("Hai anh em ngu chung giuong \nNguoi em gap ac mong het that thanh va tinh day nguoi anh hoi\n– Co chuyen gi vay \n– Em nam mo thay ac mong\n– May mo thay gi \n– Em nam mo thay em dang roi xuong vuc tham\n– The may co chet khong \n– Khong may man sao em nam duoc cai re cay\n– The gio may tinh chua \n– Da roi \n– Vay may buong cai re cay ra dau qua");
-			traloi.push_back("Tren duong Ty gap Teo roi than phien voi Teo\n– Tao cho thang ban tao vay 1000 do la \nnhung khong co giay to gi gio gan Tet roi \nkhong sao doi lai duoc may a Teo voi noi\n– The thi may hay viet ngay cho han mot \nla thu may doi no tra 1500 do la Ty lien dap\n– Nhung han chi vay tao co 1000 do la thoi ma Teo cuoi roi noi\n– May cu viet 1500 do la \nkhi han nhan duoc thu han thay vo ly thi han ta \nse viet tra loi la chi vay may 1000 do la \nNhu the thi may dung la thu do lam \nchung cu de kien han duoc roi Ty voi la len\n– Tuyet");
+			traloi.push_back("Hai anh em ngu chung giuong \nNguoi em gap ac mong het that thanh va tinh day nguoi anh hoi\nÂ– Co chuyen gi vay \nÂ– Em nam mo thay ac mong\nÂ– May mo thay gi \nÂ– Em nam mo thay em dang roi xuong vuc tham\nÂ– The may co chet khong \nÂ– Khong may man sao em nam duoc cai re cay\nÂ– The gio may tinh chua \nÂ– Da roi \nÂ– Vay may buong cai re cay ra dau qua");
+			traloi.push_back("Tren duong Ty gap Teo roi than phien voi Teo\nÂ– Tao cho thang ban tao vay 1000 do la \nnhung khong co giay to gi gio gan Tet roi \nkhong sao doi lai duoc may a Teo voi noi\nÂ– The thi may hay viet ngay cho han mot \nla thu may doi no tra 1500 do la Ty lien dap\nÂ– Nhung han chi vay tao co 1000 do la thoi ma Teo cuoi roi noi\nÂ– May cu viet 1500 do la \nkhi han nhan duoc thu han thay vo ly thi han ta \nse viet tra loi la chi vay may 1000 do la \nNhu the thi may dung la thu do lam \nchung cu de kien han duoc roi Ty voi la len\nÂ– Tuyet");
 			traloi.push_back(" -Oi Cau sao the nay Mat mui tay chan bi \nbam tim ca De to dua cau ve nha \n-Dien a To vua tu cho ay ra day");
 			traloi.push_back(" - Cau sao the nay Lai bi vo danh nua a \nSao cau bao se cho co ta mot tran ra tro co ma \n- U nhung to khong ngo co ta ra don nhanh den the");
 			traloi.push_back(" Cau co doc to giay to gui chua \n-Co phai to giay doi tien to thieu cau phai khong \n-U dung roi \n-The thi to chua doc");

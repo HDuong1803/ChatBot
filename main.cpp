@@ -4,13 +4,12 @@
 #include<thread>
 #include<chrono>
 #include "dohoa.h"
-//#include "Cunghoangdao.h"
-//#include "Snakegame.h"
+#include "Cunghoangdao.h"
 #include "botngu.h"
-//#include "demsongaysong.h"
-//#include "totinh.h"
-//#include "rain.h"
-//#include "saobang.h"
+#include "demsongaysong.h"
+#include "totinh.h"
+#include "rain.h"
+#include "saobang.h"
 
 
 using namespace std;

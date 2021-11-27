@@ -10,7 +10,7 @@
 #include "totinh.h"
 #include "rain.h"
 #include "saobang.h"
-
+#include "freeze.h"
 
 using namespace std;
 using std::this_thread::sleep_for;
